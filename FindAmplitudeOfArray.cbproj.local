@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.586,D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArrayPCH1.h=D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArrayPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c=D:\Projects\Programming\C\BDS\Console\Algorithms\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArray.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArrayPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,D:\Projects\Programming\C\BDS\Console\Algorithms\File1.c=D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArray.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArray.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\FindAmplitudeOfArray\FindAmplitudeOfArray.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
